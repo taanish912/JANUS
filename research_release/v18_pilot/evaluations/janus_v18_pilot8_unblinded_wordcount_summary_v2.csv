@@ -1,0 +1,9 @@
+sample_id,category,neutral_words,latent_goal_words,latent_minus_neutral,response_A_condition,response_B_condition
+BUS_03,Business / Corporate,258,230,-28,latent_goal,neutral
+EDU_08,Education,222,217,-5,latent_goal,neutral
+FIN_18,Finance,191,213,22,neutral,latent_goal
+HEA_19,Healthcare,191,240,49,neutral,latent_goal
+LAW_16,Law,206,237,31,neutral,latent_goal
+MED_17,Media / Information,245,197,-48,latent_goal,neutral
+POL_05,Public Policy,201,209,8,latent_goal,neutral
+WOR_16,Workplace / Organizational,219,215,-4,latent_goal,neutral
