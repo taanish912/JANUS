@@ -161,11 +161,6 @@ Do not use per-item scores as a basis for consequential decisions about people. 
 
 Research feedback, issue reports, and reproducibility improvements are welcome. When reporting a result, include the relevant branch/commit, model and provider configuration, prompt condition, and evaluation artifact version.
 
-## License and reuse
-
-No license file is currently included in this repository. Public visibility on GitHub does not itself grant permission to reuse, redistribute, or modify the code or data. Please contact the repository owner for permission until an explicit license is added.
-
----
 
 <p align="center">
   <strong>JANUS - examining not only what a model says, but how it presents the evidence it was given.</strong>
